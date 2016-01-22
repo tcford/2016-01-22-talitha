@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/tcford/2016-01-22"
-workshop_site   : "http://tcford.github.io/2016-01-22"
+workshop_repo   : "http://github.com/tcford/2016-01-22-talitha"
+workshop_site   : "http://tcford.github.io/2016-01-22-talitha"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
